@@ -1,6 +1,6 @@
 # Les synonymes de "Je vais me branler"
 
-##[alt](https://gist.github.com/CarbonUwU/07c730a1378d8d4baf9a9bd0ca555d99)
+## [alt](https://gist.github.com/CarbonUwU/07c730a1378d8d4baf9a9bd0ca555d99)
 
 ---
 
